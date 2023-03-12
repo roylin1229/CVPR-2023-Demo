@@ -1,2 +1,2 @@
-# Video demo of long-term visual localization
+# Video demo
 CVPR 2023 Demo
